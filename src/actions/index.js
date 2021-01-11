@@ -1,4 +1,3 @@
-import commentList from '../components/comment-list';
 import axios from 'axios';
 import { SAVE_COMMENT, FETCH_COMMENTS, CHANGE_AUTH } from './types';
 
